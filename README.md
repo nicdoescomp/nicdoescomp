@@ -1,4 +1,4 @@
-<img src='Images/flower.jpeg' alt="banner"></img>
+<img src='https://raw.githubusercontent.com/nicdoescomp/Images/refs/heads/main/flower.jpeg' alt="Image Banner">
 
 
 Hi 👋 My name is Nicholas
