@@ -1,3 +1,6 @@
+<img src='Images/flower.jpeg' alt="banner"></img>
+
+
 Hi 👋 My name is Nicholas
 =========================
 
