@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Nicholas, a second-year college student with a
 
 💻 My Coding Journey
 ------------------------------------------------------------ 
-I started out learning C++ and recently began exploring Python, diving into web development. My current project, Calico Countertops, is a playful exploration of 3D modeling and web interaction using CSS and JavaScript. It’s been a fun challenge building a website from scratch, and I’m always eager to learn more!
+I started out learning C++ and recently began exploring Python, diving into web development. My current project, Calico Countertops, is a playful exploration of web interaction using CSS and JavaScript. It’s been a fun challenge building a website from scratch, and I’m always eager to learn more!
 
 
 ### 💡 Tech Skills & Interests
