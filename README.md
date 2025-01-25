@@ -24,7 +24,7 @@ I started out learning C++ and recently began exploring Python, diving into web 
 
 - 🖼️ Enhancing **Calico Countertops** with more interactive features
 - 📚 Growing my knowledge in Python and web development
-- C++ Final project of a working Word Search game(coordinate based)
+- C++ projects for my Intro to Programming Fundementals II
 
 
 
