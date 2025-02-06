@@ -5,13 +5,13 @@ Hi 👋 My name is Nicholas
 =========================
 
 
-🖥️ IT Intern| Aspiring Software Developer
+🖥️ IT Part-Timer| Aspiring Software Developer
 ------------------------------------------------------------ 
-Welcome to my GitHub profile! I'm Nicholas, a second-year college student with a passion for both technology and creativity. When I'm not troubleshooting computers or making things run smoothly as an IT intern, you can find me baking and brewing up coffee at The Cheesecake Factory.
+Welcome to my GitHub profile! I'm Nicholas, a second-year college student with a passion for both technology and creativity. When I'm not troubleshooting computers or making things run smoothly as an IT Part-Time Field tech, I strive to code and document as much as possible whist juggling school.
 
 💻 My Coding Journey
 ------------------------------------------------------------ 
-I started out learning C++ and recently began exploring Python, diving into web development. My current project, Calico Countertops, is a playful exploration of web interaction using CSS and JavaScript. It’s been a fun challenge building a website from scratch, and I’m always eager to learn more!
+I started out learning C++ and recently began exploring Python, diving into web development. My current on-going project, Calico Countertops, is a playful exploration of web interaction using CSS and JavaScript. It’s been a fun challenge building a website from scratch, and I’m always eager to learn more!
 
 
 ### 💡 Tech Skills & Interests
