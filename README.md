@@ -16,7 +16,7 @@ I started out learning C++ and recently began exploring Python, diving into web 
 
 ### 💡 Tech Skills & Interests
 
-- **Languages:** C++ (core), Python (learning), HTML/CSS/JavaScript
+- **Languages:** C++ (core), Python (learning), HTML/CSS/JavaScript, Bash
 - **Tools:** Xcode, Git, VS Code
 - **Areas of Focus:** IT field support, software development, web development
 
