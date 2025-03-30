@@ -26,11 +26,7 @@ I started out learning C++ and recently began exploring Python, diving into web 
 - 📚 Growing my knowledge in Python and web development
 - C++ projects for my Intro to Programming Fundementals II
 
-  ## #30NitesOfCode:
-  ![@Nicdoescomp #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nicdoescomp)
-  [Check out my progress!](https://www.codedex.io/@Nicdoescomp/30-nites-of-code)  
-
-
+ 
 
 
 
