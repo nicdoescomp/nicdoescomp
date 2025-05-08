@@ -25,6 +25,7 @@ I started out learning C++ and recently began exploring Python, diving into web 
 - 🖼️ Enhancing **Calico Countertops** with more interactive features
 - 📚 Growing my knowledge in Python and web development
 - C++ projects for my Intro to Programming Fundementals II
+- Learning the C language to prepare in tranfsering to UTSA Fall 25'
 
  
 
